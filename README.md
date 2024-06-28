@@ -11,11 +11,11 @@ For more exercises, please visit these resources:
 1. Write a C++ program that displays mixed data types and arithmetic operations. 
 2. Write a C++ program that swaps two numbers.
 3. Write a C++ program to compute the total and average of four numbers.
-4. Write a C++ program to calculate the sum of all even and odd numbers in an array.
+4. Write a C++ program to calculate the sum of all even and odd numbers in an array. (Good one).
 5. Write a C++ program that swaps two variables without using a third variable.
-6. Write a C++ program to add two binary numbers.
+6. Write a C++ program to add two binary numbers. (Good one).
 7. Write a C++ program that reads seven numbers and sorts them in descending order.
-8. Write a C++ program that reads the integer n and prints its factorial.
+8. For n = 10, write a C++ program that reads the integer n and prints its factorial.
 
 ## Basic Algorithm exercises
 
