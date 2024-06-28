@@ -30,6 +30,20 @@ For more exercises, please visit these resources:
 9. Write a C++ program to reverse a given array of integers of length 5. (Reversing arrays is a basic yet fundamental problem that tests understanding of array manipulation.)
 10. Write a C++ program to count the even number of elements in a given array of integers.
 
+
+## If Statements exercises
+
+1. Simple Calculator: Write a program that takes two integers and a character ('+', '-', '*', '/') as input and uses an if statement to output the result of the operation.
+2. Grading System: Write a program that takes a score from 0 to 100 and uses a series of if statements to print the corresponding grade (A, B, C, D, F).
+3. Age Group Classifier: Use if statements to classify and print the age group of a person (child, teen, adult, senior) based on their age provided as input.
+4. Basic Authentication: Simulate a login system where the user inputs a username and password. Use if statements to check if the entered credentials match stored values.
+5. Find the Largest: Write a program that takes three integers and uses nested if statements to find and print the largest.
+6. Switch Case Menu: Implement a menu using a switch case that allows the user to select from different options (e.g., '1' for adding a new record, '2' for deleting a record).
+7. Number Properties: Use if and else to check and print whether a number is positive, negative, or zero.
+8. Leap Year Checker: Write a program that uses if statements to determine whether a year is a leap year.
+9. Traffic Light Simulator: Use a switch case to simulate traffic light changes and corresponding actions (e.g., 'G' for green, 'R' for red).
+10. Simple Interest Calculator: Write a program that calculates simple interest using the formula `I = P x R x T` and prints the result, where I is interest, P is principal amount, R is rate, and T is time. Use if to validate input values are not negative.
+
 ## For-loop exercises
 
 1. Write a program in C++ to check whether a number is prime or not.
@@ -41,7 +55,36 @@ For more exercises, please visit these resources:
 7. Write a program in C++ to display the numbers in reverse order. (Reversing numbers tests understanding of loops and arithmetic manipulations.)
 8. Write a program in C++ to check whether a number can be expressed as the sum of two prime numbers. (This problem involves loops, condition checking, and prime number logic, which are common in coding challenges.)
 9. Write a program in C++ to find the first and last digits of a number. (Extracting digits from a number is a basic yet essential skill in many numerical problems.)
-10. Write a program in C++ to calculate the sum of the series 1.2+2.3+3.4+4.5+.......
+10. Write a program that counts the number of vowels in a given string using a for loop.
+11. Write a program that calculates the sum of all elements in an integer array.
+12. Write a program that finds the minimum and maximum numbers in an array using a single for loop.
+13. Histogram Printing: Write a program that takes an array of integers and prints a histogram to the console, where each bar represents the frequency of each integer.
+
+## While-loop exercises
+
+1. Guessing Game: Implement a number guessing game where the user has to guess a randomly set number within a range until they get it right.
+2. Input Validator: Write a program that continuously asks for a number until the user enters a valid number (within a specified range).
+3. Power Calculator: Write a program that calculates x<sup>y</sup> (where x is the base and y is the exponent) using a while loop.
+4. Number Reversal: Create a program that reverses an integer using a while loop.
+5. Palindrome Checker: Implement a program that checks if a given string is a palindrome using a while loop.
+6. Sum Digits: Write a program that sums all the digits of a given integer using a while loop.
+7. Collatz Conjecture: Implement the Collatz conjecture (also known as 3n+1 problem) and track the number of steps to reach 1.
+8. Decimal to Binary Converter: Write a program that converts a decimal number to binary using a while loop.
+9. Interest Accumulator: Write a program that calculates how long it will take for an investment to double at a given interest rate using a while loop.
+10. Count Down Timer: Implement a countdown timer that counts down from a specified time and then prints "Time's up!".
+
+## Do-while Loop Exercises 
+
+1. Menu Driven Program: Implement a simple text-based menu that repeatedly shows options until the user selects to exit.
+2. Input Reader: Write a program that keeps asking the user for positive numbers and stops when a negative number is entered.
+3. Random Number Summation: Create a program that sums randomly generated numbers until the sum reaches or exceeds 100.
+4. Password Prompt: Implement a program that repeatedly asks the user for a password until the correct password is entered.
+5. Number Averager: Write a program that continuously reads numbers from the user, calculates, and prints the average when a special command (e.g., 'done') is entered.
+6. Factor Finder: Implement a program that finds all factors of a number entered by the user.
+7. Prime Number Generator: Write a program that generates prime numbers until the user decides to stop.
+8. Unit Converter: Create a simple unit conversion program that repeats until the user opts to exit.
+9. Multiples Printer: Write a program that prints all multiples of a number `N` up to 1000.
+10. Interest Calculator: Implement a program that continuously calculates compound interest for different principal amounts entered by the user until they decide to stop.
 
 ## String exercises
 
