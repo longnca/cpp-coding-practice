@@ -34,15 +34,13 @@ For more exercises, please visit these resources:
 ## If Statements exercises
 
 1. Simple Calculator: Write a program that takes two integers and a character ('+', '-', '*', '/') as input and uses an if statement to output the result of the operation.
-2. Grading System: Write a program that takes a score from 0 to 100 and uses a series of if statements to print the corresponding grade (A, B, C, D, F).
-3. Age Group Classifier: Use if statements to classify and print the age group of a person (child, teen, adult, senior) based on their age provided as input.
-4. Basic Authentication: Simulate a login system where the user inputs a username and password. Use if statements to check if the entered credentials match stored values.
-5. Find the Largest: Write a program that takes three integers and uses nested if statements to find and print the largest.
-6. Switch Case Menu: Implement a menu using a switch case that allows the user to select from different options (e.g., '1' for adding a new record, '2' for deleting a record).
-7. Number Properties: Use if and else to check and print whether a number is positive, negative, or zero.
-8. Leap Year Checker: Write a program that uses if statements to determine whether a year is a leap year.
-9. Traffic Light Simulator: Use a switch case to simulate traffic light changes and corresponding actions (e.g., 'G' for green, 'R' for red).
-10. Simple Interest Calculator: Write a program that calculates simple interest using the formula `I = P x R x T` and prints the result, where I is interest, P is principal amount, R is rate, and T is time. Use if to validate input values are not negative.
+2. Basic Authentication: Simulate a login system where the user inputs a username and password. Use if statements to check if the entered credentials match stored values.
+3. Find the Largest: Write a program that takes three integers and uses nested if statements to find and print the largest.
+4. Switch Case Menu: Implement a menu using a switch case that allows the user to select from different options (e.g., '1' for adding a new record, '2' for deleting a record).
+5. Number Properties: Use if and else to check and print whether a number is positive, negative, or zero.
+6. Leap Year Checker: Write a program that uses if statements to determine whether a year is a leap year.
+7. Traffic Light Simulator: Use a switch case to simulate traffic light changes and corresponding actions (e.g., 'G' for green, 'R' for red).
+8. Simple Interest Calculator: Write a program that calculates simple interest using the formula `I = P x R x T` and prints the result, where I is interest, P is principal amount, R is rate, and T is time. Use if to validate input values are not negative.
 
 ## For-loop exercises
 
