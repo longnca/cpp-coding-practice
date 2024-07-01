@@ -48,15 +48,14 @@ For more exercises, please visit these resources:
 2. Write a program in C++ to find the factorial of a number.
 3. Write a program in C++ to find the Greatest Common Divisor (GCD) of two numbers.
 4. Write a program in C++ to display the cube of the number up to an integer.
-5. Write a program in C++ to display the sum of the series [9 + 99 + 999 + 9999 ...].
-6. Write a program in C++ to display the first n terms of the Fibonacci series. (Fibonacci series is a classic problem that tests understanding of loops and recursion.)
-7. Write a program in C++ to display the numbers in reverse order. (Reversing numbers tests understanding of loops and arithmetic manipulations.)
-8. Write a program in C++ to check whether a number can be expressed as the sum of two prime numbers. (This problem involves loops, condition checking, and prime number logic, which are common in coding challenges.)
-9. Write a program in C++ to find the first and last digits of a number. (Extracting digits from a number is a basic yet essential skill in many numerical problems.)
-10. Write a program that counts the number of vowels in a given string using a for loop.
-11. Write a program that calculates the sum of all elements in an integer array.
-12. Write a program that finds the minimum and maximum numbers in an array using a single for loop.
-13. Histogram Printing: Write a program that takes an array of integers and prints a histogram to the console, where each bar represents the frequency of each integer.
+5. Write a program in C++ to display the first n terms of the Fibonacci series. (Fibonacci series is a classic problem that tests understanding of loops and recursion.)
+6. Write a program in C++ to display the numbers in reverse order. (Reversing numbers tests understanding of loops and arithmetic manipulations.)
+7. Write a program in C++ to check whether a number can be expressed as the sum of two prime numbers. (This problem involves loops, condition checking, and prime number logic, which are common in coding challenges.)
+8. Write a program in C++ to find the first and last digits of a number. (Extracting digits from a number is a basic yet essential skill in many numerical problems.)
+9. Write a program that counts the number of vowels in a given string using a for loop.
+10. Write a program that calculates the sum of all elements in an integer array.
+11. Write a program that finds the minimum and maximum numbers in an array using a single for loop.
+12. Histogram Printing: Write a program that takes an array of integers and prints a histogram to the console, where each bar represents the frequency of each integer.
 
 ## While-loop exercises
 
