@@ -39,8 +39,6 @@ For more exercises, please visit these resources:
 4. Switch Case Menu: Implement a menu using a switch case that allows the user to select from different options (e.g., '1' for adding a new record, '2' for deleting a record).
 5. Number Properties: Use if and else to check and print whether a number is positive, negative, or zero.
 6. Leap Year Checker: Write a program that uses if statements to determine whether a year is a leap year.
-7. Traffic Light Simulator: Use a switch case to simulate traffic light changes and corresponding actions (e.g., 'G' for green, 'R' for red).
-8. Simple Interest Calculator: Write a program that calculates simple interest using the formula `I = P x R x T` and prints the result, where I is interest, P is principal amount, R is rate, and T is time. Use if to validate input values are not negative.
 
 ## For-loop exercises
 
@@ -87,7 +85,7 @@ For more exercises, please visit these resources:
 
 1. Write a C++ program to reverse a given string.
 2. Write a C++ program to capitalize the first letter of each word in a given string.
-3. Write a C++ program to find the largest word in a given string.
+3. Write a C++ program to find the largest (longest) word in a given string.
 4. Write a C++ program to sort characters (numbers and punctuation symbols are not included) in a string.
 5. Write a C++ program to count all the vowels in a given string.
 6. Write a C++ program to check if a given string is a palindrome or not.
