@@ -5,6 +5,28 @@ This repository stores my coding practice of C++.
 For more exercises, please visit these resources:
 
 * [w3resource.com](https://www.w3resource.com/cpp-exercises/index.php)
+* BroCode's YouTube channel.
+
+## Simple C++ Projects
+
+The list below comprises small, quickly-completed console-based projects using C++. These are not intended as production-grade programs but serve as simple exercises to practice concepts, algorithms, and libraries in C++.
+
+1. **Console Calculator Program:** A simple console-based calculator that performs basic arithmetic operations.
+2. **Temperature Conversion Program:** A program to convert temperatures between Celsius, Fahrenheit, and Kelvin.
+3. **Random Number Generator Program:** Generates random numbers within a user-defined range.
+4. **Random Password Generator Program:** Creates secure random passwords based on user-specified criteria.
+5. **Random Event Generator Program:** Produces random events or outcomes from a predefined list.
+6. **Number Guessing Game:** A game where the user tries to guess a randomly generated number within a certain range.
+7. **Simple Banking Program:** Simulates basic banking operations like deposits, withdrawals, and balance inquiries.
+8. **Rock Paper Scissors Game:** A console-based implementation of the classic Rock, Paper, Scissors game.
+9. **Quiz Game:** An interactive quiz game that asks questions and checks the user's answers.
+10. **Credit Card Validator Program:** Validates credit card numbers using the Luhn algorithm.
+11. **Tic Tac Toe Game:** A console-based version of the classic Tic Tac Toe game.
+12. **Simple File Reader:** Reads and displays the contents of a text file. Concepts: File I/O, streams.
+13. **Student Grades Averager:** Calculates and displays the average grade of a list of students. Concepts: Vectors, loops, user input.
+14. **Simple Stopwatch:** Simulates a stopwatch that counts seconds and displays the elapsed time. Concepts: Loops, time functions (<chrono> library).
+15. **Simple Contact Book:** Stores and displays a list of contacts with names and phone numbers. Concepts: Structs, vectors, user input.
+16. **Word Counter:** Counts the number of words in a given sentence or paragraph. Concepts: String manipulation, loops, conditionals.
 
 ## Basic exercises
 
@@ -30,7 +52,6 @@ For more exercises, please visit these resources:
 9. Write a C++ program to reverse a given array of integers of length 5. (Reversing arrays is a basic yet fundamental problem that tests understanding of array manipulation.)
 10. Write a C++ program to count the even number of elements in a given array of integers.
 
-
 ## If Statements exercises
 
 1. Simple Calculator: Write a program that takes two integers and a character ('+', '-', '*', '/') as input and uses an if statement to output the result of the operation.
@@ -46,7 +67,7 @@ For more exercises, please visit these resources:
 2. Write a program in C++ to find the factorial of a number.
 3. Write a program in C++ to find the Greatest Common Divisor (GCD) of two numbers.
 4. Write a program in C++ to display the cube of the number up to an integer.
-5. Write a program in C++ to display the first n terms of the Fibonacci series. (Fibonacci series is a classic problem that tests understanding of loops and recursion.)
+5. Iterative Fibonacci: Write a program in C++ to display the first n terms of the Fibonacci series. (Compare with the exercise of Fibonacci using Recursive functions below).
 6. Write a program in C++ to display the numbers in reverse order. (Reversing numbers tests understanding of loops and arithmetic manipulations.)
 7. Write a program in C++ to check whether a number can be expressed as the sum of two prime numbers. (This problem involves loops, condition checking, and prime number logic, which are common in coding challenges.)
 8. Write a program in C++ to find the first and last digits of a number. (Extracting digits from a number is a basic yet essential skill in many numerical problems.)
@@ -111,7 +132,7 @@ For more exercises, please visit these resources:
 
 1. Write a C++ program to find the sum of all elements in an array using recursion.
 2. Write a C++ program to calculate the factorial of a given number using recursion.
-3. Write a C++ program to implement a recursive function to get the nth Fibonacci number.
+3. Recursive Fibonacci: Write a C++ program to implement a recursive function to get the nth Fibonacci number.
 4. Write a C++ program to implement a recursive function to calculate the sum of digits of a given number.
 5. Write a C++ program to implement a recursive function to find the maximum and minimum elements in an array.
 6. Write a C++ program to reverse a string using recursion.
