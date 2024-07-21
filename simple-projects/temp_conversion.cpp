@@ -5,7 +5,7 @@ int main() {
     double tempF, tempC;
     int userInput;
 
-    std::cout << "********** TEMPERATURE CONVERSION **********\n";
+    std::cout << "********** TEMPERATURE CONVERSION **********\n\n";
     std::cout << "";
     std::cout << "What conversion type would you like to use: \n";
     std::cout << "1 - Fahrenheit to Celsius.\n";

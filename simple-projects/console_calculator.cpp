@@ -5,7 +5,7 @@ int main() {
     char operatorSign;
     double num1, num2, result;
 
-    std::cout << "********** CALCULATOR **********\n";
+    std::cout << "********** CALCULATOR **********\n\n";
 
     std::cout << "Enter any operator sign (+ - * /): ";
     std::cin >> operatorSign;
@@ -37,7 +37,7 @@ int main() {
             std::cout << "That was not a valid operator.";
     }
 
-    std::cout << "Thank you for using my calculator app.\n";
+    std::cout << "\nThank you for using my calculator app.\n";
     std::cout << "**********************************";
 
     return 0;

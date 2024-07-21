@@ -2,9 +2,9 @@
 
 int main() {
     
-    std::cout << "********** NAME OF THE C++ PROGRAM **********\n";
+    std::cout << "********** NAME OF THE C++ PROGRAM **********\n\n";
 
-    std::cout << "Thank you for using my PROGRAM.\n";
+    std::cout << "\nThank you for using my PROGRAM.\n";
     std::cout << "**********************************";
 
     return 0;

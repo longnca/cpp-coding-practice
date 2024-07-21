@@ -13,7 +13,7 @@ The list below comprises small, quickly-completed console-based projects using C
 
 1. **Console Calculator Program:** A simple console-based calculator that performs basic arithmetic operations.
 2. **Temperature Conversion Program:** A program to convert temperatures between Celsius, Fahrenheit, and Kelvin.
-3. **Random Number Generator Program:** Generates random numbers within a user-defined range.
+3. **Random Number Generator Program:** Generates random numbers within a user-defined range. Other similar variations: random event generator, random motivational quote generator, random daily activity suggestions.
 4. **Random Password Generator Program:** Creates secure random passwords based on user-specified criteria.
 5. **Random Event Generator Program:** Produces random events or outcomes from a predefined list.
 6. **Number Guessing Game:** A game where the user tries to guess a randomly generated number within a certain range.
