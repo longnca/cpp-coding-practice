@@ -140,3 +140,16 @@ The list below comprises small, quickly-completed console-based projects using C
 8. Write a C++ program to implement a recursive function to check if a given string is a palindrome.
 9. Write a C++ program to implement a recursive function to reverse a linked list.
 10. Write a C++ program to implement a recursive function to find the greatest common divisor (GCD) of two numbers.
+
+## OOP & Memory Management Exercises
+
+The following exercises focus on fundamental C++ concepts and practices such as: pointers, references, constructors, destructors, copy constructors, assignment operators, rule of three/five, OOP (Object-Oriented Programming), and classes.
+
+1. Sample exercise: My Class. ([Link](./oop-memory-mgmt/MyClass/))
+2. Dynamic Array. ([Link](./oop-memory-mgmt/DynamicArray/))
+3. Smart Pointer Class. ([Link](./oop-memory-mgmt/SmartPointerClass/))
+4. Shape. ([Link](./oop-memory-mgmt/Shape/))
+5. Deep Copy Array. ([Link](./oop-memory-mgmt/DeepCopyArray/))
+
+**What to do:** For each of these exercises, implement the corresponding .cpp files. Focus on properly handling resource management, ensuring correct use of constructors, destructors, copy constructors, move constructors, and assignment operators. Test your implementation to ensure correctness and robustness.
+
